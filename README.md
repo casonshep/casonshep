@@ -1,7 +1,7 @@
-# Hi, I'm Cason Shepard  
+# Hi, I'm Cason  
 - 🔋 Professional interests include anything at the intersection of machine learning and software
-- 🎮 Lifelong gamer, fascinated by **game development & interactive systems with emergent behaviors**  
-- 🍄 Exploring how my interests in tech, art, games, and community can align
+- 🎮 Lifelong gamer, fascinated by game development & interactive systems with emergent behaviors 
+- 🍄 Always looking to discover ways my interests in tech, art, games, and community may align!
 
 ---
 
